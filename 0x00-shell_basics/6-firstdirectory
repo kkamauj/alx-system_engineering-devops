@@ -1,7 +1,2 @@
 #!/bin/bash
-
-# define path of dir
-dir_path="/tmp/my_first_directory"
-
-# create the dir
-mkdir -p "$dir_path"
+mkdir -p /tmp/my_first_directory
